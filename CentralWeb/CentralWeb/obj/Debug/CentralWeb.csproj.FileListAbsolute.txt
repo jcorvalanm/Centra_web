@@ -1,0 +1,17 @@
+C:\Users\jaguilar\OneDrive - Comercial Madison S.A\Proyectos\Komax\_CentralWeb\CentralWeb\CentralWeb\bin\CentralWeb.dll
+C:\Users\jaguilar\OneDrive - Comercial Madison S.A\Proyectos\Komax\_CentralWeb\CentralWeb\CentralWeb\bin\CentralWeb.pdb
+C:\Users\jaguilar\OneDrive - Comercial Madison S.A\Proyectos\Komax\_CentralWeb\CentralWeb\CentralWeb\obj\Debug\CentralWeb.csprojResolveAssemblyReference.cache
+C:\Users\jaguilar\OneDrive - Comercial Madison S.A\Proyectos\Komax\_CentralWeb\CentralWeb\CentralWeb\obj\Debug\CentralWeb.dll
+C:\Users\jaguilar\OneDrive - Comercial Madison S.A\Proyectos\Komax\_CentralWeb\CentralWeb\CentralWeb\obj\Debug\CentralWeb.pdb
+C:\Proyectos\Komax\_CentralWeb\CentralWeb\CentralWeb\bin\CentralWeb.dll
+C:\Proyectos\Komax\_CentralWeb\CentralWeb\CentralWeb\bin\CentralWeb.pdb
+C:\Proyectos\Komax\_CentralWeb\CentralWeb\CentralWeb\obj\Debug\CentralWeb.csprojResolveAssemblyReference.cache
+C:\Proyectos\Komax\_CentralWeb\CentralWeb\CentralWeb\obj\Debug\CentralWeb.dll
+C:\Proyectos\Komax\_CentralWeb\CentralWeb\CentralWeb\obj\Debug\CentralWeb.pdb
+C:\Users\pcortez\Documents\Proyectos\CentralWeb\CentralWeb\bin\CentralWeb.dll.config
+C:\Users\pcortez\Documents\Proyectos\CentralWeb\CentralWeb\bin\CentralWeb.dll
+C:\Users\pcortez\Documents\Proyectos\CentralWeb\CentralWeb\bin\CentralWeb.pdb
+C:\Users\pcortez\Documents\Proyectos\CentralWeb\CentralWeb\obj\Debug\CentralWeb.csprojAssemblyReference.cache
+C:\Users\pcortez\Documents\Proyectos\CentralWeb\CentralWeb\obj\Debug\CentralWeb.csproj.CoreCompileInputs.cache
+C:\Users\pcortez\Documents\Proyectos\CentralWeb\CentralWeb\obj\Debug\CentralWeb.dll
+C:\Users\pcortez\Documents\Proyectos\CentralWeb\CentralWeb\obj\Debug\CentralWeb.pdb

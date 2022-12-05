@@ -1,0 +1,10 @@
+C:\Users\jaguilar\OneDrive - Comercial Madison S.A\Proyectos\Komax\_CentralWeb\CentralWeb\CentralWeb\bin\CentralWeb.dll
+C:\Users\jaguilar\OneDrive - Comercial Madison S.A\Proyectos\Komax\_CentralWeb\CentralWeb\CentralWeb\bin\CentralWeb.pdb
+C:\Users\jaguilar\OneDrive - Comercial Madison S.A\Proyectos\Komax\_CentralWeb\CentralWeb\CentralWeb\obj\Release\CentralWeb.csprojResolveAssemblyReference.cache
+C:\Users\jaguilar\OneDrive - Comercial Madison S.A\Proyectos\Komax\_CentralWeb\CentralWeb\CentralWeb\obj\Release\CentralWeb.dll
+C:\Users\jaguilar\OneDrive - Comercial Madison S.A\Proyectos\Komax\_CentralWeb\CentralWeb\CentralWeb\obj\Release\CentralWeb.pdb
+C:\Proyectos\Komax\_CentralWeb\CentralWeb\CentralWeb\bin\CentralWeb.dll
+C:\Proyectos\Komax\_CentralWeb\CentralWeb\CentralWeb\bin\CentralWeb.pdb
+C:\Proyectos\Komax\_CentralWeb\CentralWeb\CentralWeb\obj\Release\CentralWeb.csprojResolveAssemblyReference.cache
+C:\Proyectos\Komax\_CentralWeb\CentralWeb\CentralWeb\obj\Release\CentralWeb.dll
+C:\Proyectos\Komax\_CentralWeb\CentralWeb\CentralWeb\obj\Release\CentralWeb.pdb
