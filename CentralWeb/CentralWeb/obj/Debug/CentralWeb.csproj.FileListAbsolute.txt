@@ -15,3 +15,10 @@ C:\Users\pcortez\Documents\Proyectos\CentralWeb\CentralWeb\obj\Debug\CentralWeb.
 C:\Users\pcortez\Documents\Proyectos\CentralWeb\CentralWeb\obj\Debug\CentralWeb.csproj.CoreCompileInputs.cache
 C:\Users\pcortez\Documents\Proyectos\CentralWeb\CentralWeb\obj\Debug\CentralWeb.dll
 C:\Users\pcortez\Documents\Proyectos\CentralWeb\CentralWeb\obj\Debug\CentralWeb.pdb
+C:\Users\jcorvalan\Desktop\git\central_web\CentralWeb\CentralWeb\bin\CentralWeb.dll.config
+C:\Users\jcorvalan\Desktop\git\central_web\CentralWeb\CentralWeb\bin\CentralWeb.dll
+C:\Users\jcorvalan\Desktop\git\central_web\CentralWeb\CentralWeb\bin\CentralWeb.pdb
+C:\Users\jcorvalan\Desktop\git\central_web\CentralWeb\CentralWeb\obj\Debug\CentralWeb.csproj.AssemblyReference.cache
+C:\Users\jcorvalan\Desktop\git\central_web\CentralWeb\CentralWeb\obj\Debug\CentralWeb.csproj.CoreCompileInputs.cache
+C:\Users\jcorvalan\Desktop\git\central_web\CentralWeb\CentralWeb\obj\Debug\CentralWeb.dll
+C:\Users\jcorvalan\Desktop\git\central_web\CentralWeb\CentralWeb\obj\Debug\CentralWeb.pdb
