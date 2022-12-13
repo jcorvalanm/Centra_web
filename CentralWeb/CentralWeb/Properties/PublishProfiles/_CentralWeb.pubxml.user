@@ -10,103 +10,103 @@ editando este archivo MSBuild. Para conocer más acerca de esto, visite http://g
   </PropertyGroup>
   <ItemGroup>
     <File Include="bin/CentralWeb.dll">
-      <publishTime>08/30/2019 10:21:50</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="Chile/humanResources.aspx">
-      <publishTime>08/22/2019 13:14:45</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="Chile/index.aspx">
-      <publishTime>08/27/2019 09:11:36</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="Default.aspx">
-      <publishTime>05/09/2019 09:46:28</publishTime>
+      <publishTime>09/05/2019 09:46:28</publishTime>
     </File>
     <File Include="Images/banderaPeru.png">
-      <publishTime>05/08/2019 11:28:50</publishTime>
+      <publishTime>08/05/2019 11:28:50</publishTime>
     </File>
     <File Include="Images/Bandera_chile.png">
-      <publishTime>05/08/2019 11:28:45</publishTime>
+      <publishTime>08/05/2019 11:28:45</publishTime>
     </File>
     <File Include="Images/checklist.png">
-      <publishTime>05/22/2019 14:17:27</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="Images/chile_m.gif">
-      <publishTime>05/08/2019 12:18:51</publishTime>
+      <publishTime>08/05/2019 12:18:51</publishTime>
     </File>
     <File Include="Images/CONSULTA QUEMA CUPONES.png">
-      <publishTime>05/08/2019 15:55:05</publishTime>
+      <publishTime>08/05/2019 15:55:05</publishTime>
     </File>
     <File Include="Images/consultaStock.png">
-      <publishTime>05/08/2019 15:54:33</publishTime>
+      <publishTime>08/05/2019 15:54:33</publishTime>
     </File>
     <File Include="Images/DEVOLUCIONES COMPRA ONLINE_2.png">
-      <publishTime>05/08/2019 15:54:49</publishTime>
+      <publishTime>08/05/2019 15:54:49</publishTime>
     </File>
     <File Include="Images/estado compras online.png">
-      <publishTime>05/08/2019 15:54:38</publishTime>
+      <publishTime>08/05/2019 15:54:38</publishTime>
     </File>
     <File Include="Images/faqs-iconos-05.png">
-      <publishTime>08/22/2019 13:12:28</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="Images/form_inscription.svg">
-      <publishTime>05/20/2019 11:59:47</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="Images/form_payroll.svg">
-      <publishTime>05/20/2019 11:59:47</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="Images/Gestion_Personas.png">
-      <publishTime>03/06/2019 11:23:40</publishTime>
+      <publishTime>06/03/2019 11:23:40</publishTime>
     </File>
     <File Include="Images/Info_ticket.png">
-      <publishTime>05/08/2019 15:54:42</publishTime>
+      <publishTime>08/05/2019 15:54:42</publishTime>
     </File>
     <File Include="Images/Íconos-firma-digital_2.png">
-      <publishTime>05/08/2019 15:54:58</publishTime>
+      <publishTime>08/05/2019 15:54:58</publishTime>
     </File>
     <File Include="Images/logo.svg">
-      <publishTime>05/08/2019 10:45:25</publishTime>
+      <publishTime>08/05/2019 10:45:25</publishTime>
     </File>
     <File Include="Images/mesaayuda.png">
-      <publishTime>05/08/2019 15:54:54</publishTime>
+      <publishTime>08/05/2019 15:54:54</publishTime>
     </File>
     <File Include="Images/mesa_reunion.jpg">
-      <publishTime>03/06/2019 09:58:58</publishTime>
+      <publishTime>06/03/2019 09:58:58</publishTime>
     </File>
     <File Include="Images/MOT.png">
-      <publishTime>05/08/2019 15:55:01</publishTime>
+      <publishTime>08/05/2019 15:55:01</publishTime>
     </File>
     <File Include="Images/pass %282%29.png">
-      <publishTime>05/22/2019 14:18:07</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="Images/payroll.png">
-      <publishTime>05/20/2019 10:55:26</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="Images/peru_m.gif">
-      <publishTime>05/08/2019 12:19:00</publishTime>
+      <publishTime>08/05/2019 12:19:00</publishTime>
     </File>
     <File Include="Images/resume.png">
-      <publishTime>03/06/2019 09:57:29</publishTime>
+      <publishTime>06/03/2019 09:57:29</publishTime>
     </File>
     <File Include="Images/signature.svg">
-      <publishTime>05/20/2019 13:06:59</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="Main.Master">
-      <publishTime>05/08/2019 16:23:17</publishTime>
+      <publishTime>08/05/2019 16:23:17</publishTime>
     </File>
     <File Include="Peru/Index.aspx">
-      <publishTime>08/02/2019 14:19:04</publishTime>
+      <publishTime>02/08/2019 14:19:04</publishTime>
     </File>
     <File Include="Scripts/jquery-1.7.1.intellisense.js">
-      <publishTime>05/07/2019 17:38:46</publishTime>
+      <publishTime>07/05/2019 17:38:46</publishTime>
     </File>
     <File Include="Scripts/jquery-1.7.1.js">
-      <publishTime>05/07/2019 17:38:46</publishTime>
+      <publishTime>07/05/2019 17:38:46</publishTime>
     </File>
     <File Include="Scripts/jquery-1.7.1.min.js">
-      <publishTime>05/07/2019 17:38:46</publishTime>
+      <publishTime>07/05/2019 17:38:46</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>07/30/2019 11:28:47</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
   </ItemGroup>
 </Project>

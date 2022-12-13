@@ -13,5 +13,11 @@ namespace CentralWeb.Chile
         {
 
         }
+
+        protected void btn1_Click(object sender, EventArgs e)
+        {
+            ClientScript.RegisterClientScriptBlock(this.GetType(), "alert",
+                "Swal.fire({title: 'Recuerda que para visualizar estos reportes debes tener licencia de power bi',icon: 'warning',showCancelButton: true,}).then((result) => {if (result.isConfirmed){ window.location.href = 'https://professor-falken.com'}else if (result.isDenied){Swal.fire('se quedara en esta pagina', '', 'info')}})", true);
+        }
     }
 }

@@ -62,6 +62,7 @@
   <ItemGroup>
     <Content Include="Chile\humanResources.aspx" />
     <Content Include="Chile\index.aspx" />
+    <Content Include="css\sweetalert2.css" />
     <Content Include="Default.aspx" />
     <Content Include="Images\banderaPeru.png" />
     <Content Include="Images\Bandera_chile.png" />
@@ -94,6 +95,7 @@
     <Content Include="Scripts\jquery-1.7.1.intellisense.js" />
     <Content Include="Scripts\jquery-1.7.1.js" />
     <Content Include="Scripts\jquery-1.7.1.min.js" />
+    <Content Include="Scripts\sweetalert2.all.min.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>

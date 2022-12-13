@@ -100,11 +100,26 @@
                 </div>
             </div>
          </div>
-           <div class="row">
+           
+          <div class="row">
             <div class="col-sm-3">
                 <div class="card">
                     <div class="card-body">
                         <a href="https://app.powerbi.com/links/jHMVQ-A4Uo?ctid=116aa0a2-a9df-4e71-be93-fc0109d202f0&pbi_source=linkShare" target="_blank" class="btn btn-light"><img src="..\images\2022-12-05_10-27-26.png" width="171"  height="150"   alt="Responsive image"/></a>
+                    </div>
+                </div>
+            </div>
+              <div class="col-sm-3">
+                <div class="card">
+                    <div class="card-body">
+                        <a href="https://app.powerbi.com/links/G7E25OOVUZ?ctid=116aa0a2-a9df-4e71-be93-fc0109d202f0&pbi_source=linkShare" target="_blank" class="btn btn-light"><img src="..\images\pxq.png" width="171"  height="150"   alt="Responsive image"/></a>
+                    </div>
+                </div>
+            </div>
+             <div class="col-sm-3">
+                <div class="card">
+                    <div class="card-body">
+                        <asp:Button ID="btn1" Text="alert" OnClick="btn1_Click" runat="server" />
                     </div>
                 </div>
             </div>
